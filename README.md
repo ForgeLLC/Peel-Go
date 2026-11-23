@@ -66,7 +66,7 @@ emulation is amd64 only.
 You need Node.js 25 or newer.
 
 ```bash
-git clone https://github.com/LLCForge/Peel-Go.git
+git clone https://github.com/ForgeLLC/Peel-Go.git
 cd Peel-Go
 npm install
 npm run dev

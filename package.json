@@ -19,9 +19,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LLCForge/Peel-Go.git"
+    "url": "git+https://github.com/ForgeLLC/Peel-Go.git"
   },
-  "homepage": "https://github.com/LLCForge/Peel-Go#readme",
+  "homepage": "https://github.com/ForgeLLC/Peel-Go#readme",
   "keywords": [
     "deobfuscator",
     "go",

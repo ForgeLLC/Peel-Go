@@ -66,7 +66,7 @@ dizge öykünmesi yalnızca amd64'tedir.
 Node.js 25 ya da daha yenisi gerekir.
 
 ```bash
-git clone https://github.com/LLCForge/Peel-Go.git
+git clone https://github.com/ForgeLLC/Peel-Go.git
 cd Peel-Go
 npm install
 npm run dev
